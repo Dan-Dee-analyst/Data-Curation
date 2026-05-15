@@ -16,23 +16,27 @@ U.S based electric vehicle registration data including make, model year of vehic
 
 <h2>Data Profile:</h2>
 
+
 <h4> 1. Applied filters to review entries per column</b>
 <h4> 2. Checked for:</b>
   
 - <b>consistent state and make name ( e.g. “Tesla motor” vs “Tesla”)</b>
 - <b>Missing or blank fields.</b>
 <h4> 3. Notable features:
+
   
 - <b>Electric Vehicle Types: Battery electric vehicle (BEV), plug-in Hybrids electric vehicle (PHEV)
 - <b>Over 50 different vehicle makes</b>
 - <b>Model years span e.g 1997-2023</b>
 <h4> 4. Recorded Inconsistencies:</b>
+
   
 - <b>Variability in manufacturer name capitalization and spacing</b>
 - <b>Missing values in electric range, model year and location</b>
 
 
 <h2>Data Wrangling:</h2>
+
 
 <h4> 1.Cleaned inconsistent manufacturer names (e.g “Tesla Motors” vs “Tesla”)</b>
 <h4> 2.Converted model year to numeric data type and removed missing years</b>
