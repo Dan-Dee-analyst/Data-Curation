@@ -49,10 +49,9 @@ U.S based electric vehicle registration data including make, model year of vehic
 <h2>Data table:</h2>
 
 <p align="center">
-EV Population Dataset <br/>
- <img src="https://github.com/Dan-Dee-analyst/Data-Exploratory/blob/main/Screenshot%202026-05-14%20at%2023.33.52.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+ <img src="https://github.com/Dan-Dee-analyst/Data-Curation/blob/main/Screenshot%202026-05-15%20at%2010.02.23.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
 
 
 <!--
