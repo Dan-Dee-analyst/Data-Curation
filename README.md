@@ -56,14 +56,3 @@ U.S based electric vehicle registration data including make, model year of vehic
  <br/>
  <img src="https://github.com/Dan-Dee-analyst/Data-Curation/blob/main/Screenshot%202026-05-15%20at%2010.02.23.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
